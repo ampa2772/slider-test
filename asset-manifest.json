@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slider-test/static/css/main.1c883d82.chunk.css",
+    "main.js": "/slider-test/static/js/main.ab737ad2.chunk.js",
+    "main.js.map": "/slider-test/static/js/main.ab737ad2.chunk.js.map",
+    "runtime-main.js": "/slider-test/static/js/runtime-main.afe42052.js",
+    "runtime-main.js.map": "/slider-test/static/js/runtime-main.afe42052.js.map",
+    "static/js/2.de2220ec.chunk.js": "/slider-test/static/js/2.de2220ec.chunk.js",
+    "static/js/2.de2220ec.chunk.js.map": "/slider-test/static/js/2.de2220ec.chunk.js.map",
+    "index.html": "/slider-test/index.html",
+    "static/css/main.1c883d82.chunk.css.map": "/slider-test/static/css/main.1c883d82.chunk.css.map",
+    "static/js/2.de2220ec.chunk.js.LICENSE.txt": "/slider-test/static/js/2.de2220ec.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/slider-test/static/media/left-arrow.da21225b.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/slider-test/static/media/right-arrow.d19ce8f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afe42052.js",
+    "static/js/2.de2220ec.chunk.js",
+    "static/css/main.1c883d82.chunk.css",
+    "static/js/main.ab737ad2.chunk.js"
+  ]
+}
